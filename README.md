@@ -1,5 +1,5 @@
 
-![ScreenshotDrive](https://github.com/ganeshg12/Drive-Clone/assets/90627816/179e1e37-96b0-422f-8a72-793258f480e7)
+![Screenshot(Drive-Clone)](https://github.com/ganeshg12/Drive-Clone/assets/90627816/19fca4c1-3d05-4c55-ac40-bd2042ed1022)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
